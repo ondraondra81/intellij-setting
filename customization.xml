@@ -1,0 +1,53 @@
+<application>
+  <component name="com.intellij.ide.ui.customization.CustomActionsSchema">
+    <group value="Upsource.AnalyzeStacktrace" is_action="true" action_type="-1" position="0">
+      <path value="root" />
+      <path value="Main menu" />
+      <path value="Tools" />
+      <path value="AnalyzePlatformMenu" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="Android.SyncProject" is_action="true" action_type="-1" position="0">
+      <path value="root" />
+      <path value="Main menu" />
+      <path value="Tools" />
+      <path value="Android" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="CompileDirty" is_action="true" action_type="-1" position="0">
+      <path value="root" />
+      <path value="Main Toolbar" />
+      <path value="Toolbar Run Actions" />
+      <path value="Toolbar Make Actions" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="CompileDirty" is_action="true" action_type="-1" position="0">
+      <path value="root" />
+      <path value="Touch Bar" />
+      <path value="Default" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="Git.Fetch" is_action="true" action_type="1" position="1">
+      <path value="root" />
+      <path value="Main Toolbar" />
+      <path value="MainToolBarSettings" />
+      <path value="VCS Actions" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="Git.Fetch" is_action="true" action_type="1" position="1">
+      <path value="root" />
+      <path value="Navigation Bar Toolbar" />
+      <path value="NavBarVcsGroup" />
+      <path value="VcsNavBarToobarActions" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="Git.Fetch" is_action="true" action_type="1" position="1">
+      <path value="root" />
+      <path value="Touch Bar" />
+      <path value="Default" />
+      <path value="Optional Actions" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <action id="Git.Fetch" icon="$USER_HOME$/Library/Mobile Documents/iCloud~com~seriflabs~affinityphoto/Documents/git-fetch.png" />
+  </component>
+</application>
