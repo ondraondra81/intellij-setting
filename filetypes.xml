@@ -7,11 +7,13 @@
       <mapping ext="gradle.kts" type="Kotlin" />
       <mapping ext="phpt" type="PHP" />
       <removed_mapping ext="phpt" approved="true" type="PHPT" />
-      <mapping pattern="reponseUrl" type="PLAIN_TEXT" />
       <mapping pattern="make" type="PLAIN_TEXT" />
       <mapping pattern=".textlintrc" type="PLAIN_TEXT" />
       <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
       <mapping ext="pem" type="PLAIN_TEXT" />
+      <mapping ext="dist" type="YAML" />
+      <removed_mapping pattern="yaml-lint" approved="true" type="PLAIN_TEXT" />
+      <removed_mapping pattern="reponseUrl" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="phpt" approved="true" type="PHPT" />
       <removed_mapping ext="conf" approved="true" type="HOCON" />
       <mapping pattern="create_volumes" type="Bat" />
