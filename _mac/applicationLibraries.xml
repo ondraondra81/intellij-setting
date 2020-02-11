@@ -4,7 +4,6 @@
       <CLASSES>
         <root url="file:///usr/local/Cellar/python/3.7.6_1/Frameworks/Python.framework/Versions/3.7/lib/python3.7" />
         <root url="file:///usr/local/Cellar/python/3.7.6_1/Frameworks/Python.framework/Versions/3.7/lib/python3.7/lib-dynload" />
-        <root url="file://$USER_HOME$/projects/pixidos/gpwebpay-core-doc/venv/lib/python3.7/site-packages" />
         <root url="file:///usr/local/lib/python3.7/site-packages" />
         <root url="file://$USER_HOME$/Library/Caches/IntelliJIdea2019.3/python_stubs/-1870432238" />
         <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/python-skeletons" />
@@ -17,7 +16,6 @@
       <SOURCES>
         <root url="file:///usr/local/Cellar/python/3.7.6_1/Frameworks/Python.framework/Versions/3.7/lib/python3.7" />
         <root url="file:///usr/local/Cellar/python/3.7.6_1/Frameworks/Python.framework/Versions/3.7/lib/python3.7/lib-dynload" />
-        <root url="file://$USER_HOME$/projects/pixidos/gpwebpay-core-doc/venv/lib/python3.7/site-packages" />
         <root url="file:///usr/local/lib/python3.7/site-packages" />
         <root url="file://$USER_HOME$/Library/Caches/IntelliJIdea2019.3/python_stubs/-1870432238" />
         <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/python-skeletons" />
