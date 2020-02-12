@@ -6,6 +6,7 @@
       <mapping pattern="Jenkinsfile" type="Groovy" />
       <mapping pattern="Jenkisfile" type="Groovy" />
       <mapping ext="gradle.kts" type="Kotlin" />
+      <mapping pattern="yaml-lint" type="PHP" />
       <mapping ext="phpt" type="PHP" />
       <removed_mapping ext="phpt" approved="true" type="PHPT" />
       <mapping pattern="make" type="PLAIN_TEXT" />
