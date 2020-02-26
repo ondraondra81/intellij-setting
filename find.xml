@@ -10,5 +10,6 @@
     <mask>*.properties</mask>
     <mask>*.java</mask>
     <mask>*.rst</mask>
+    <mask>*.php</mask>
   </component>
 </application>
