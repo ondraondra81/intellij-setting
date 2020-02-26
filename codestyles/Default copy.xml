@@ -43,6 +43,11 @@
     <option name="SEQUENCE_ON_NEW_LINE" value="true" />
     <option name="BLOCK_MAPPING_ON_NEW_LINE" value="true" />
   </yaml>
+  <codeStyleSettings language="Groovy">
+    <indentOptions>
+      <option name="CONTINUATION_INDENT_SIZE" value="4" />
+    </indentOptions>
+  </codeStyleSettings>
   <codeStyleSettings language="JSON">
     <indentOptions>
       <option name="INDENT_SIZE" value="4" />
