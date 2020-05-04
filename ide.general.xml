@@ -3,4 +3,11 @@
     <option name="defaultProjectDirectory" value="$USER_HOME$/projects" />
     <option name="showTipsOnStartup" value="false" />
   </component>
+  <component name="StatusBar">
+    <option name="widgets">
+      <map>
+        <entry key="Memory" value="true" />
+      </map>
+    </option>
+  </component>
 </application>
