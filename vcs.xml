@@ -3,16 +3,12 @@
     <option name="visitedUrls">
       <list>
         <UrlAndUserName>
-          <option name="url" value="http://gitlab.com" />
-          <option name="userName" value="ja@ondravotava.cz" />
+          <option name="url" value="http://bitbucket.oskarmobil.cz" />
+          <option name="userName" value="votavao" />
         </UrlAndUserName>
         <UrlAndUserName>
           <option name="url" value="http://github.com" />
           <option name="userName" value="ondraondra81" />
-        </UrlAndUserName>
-        <UrlAndUserName>
-          <option name="url" value="http://bitbucket.oskarmobil.cz" />
-          <option name="userName" value="votavao" />
         </UrlAndUserName>
         <UrlAndUserName>
           <option name="url" value="http://bitbucket.org" />

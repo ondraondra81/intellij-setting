@@ -122,12 +122,7 @@
   <action id="EditorDeleteToWordStartInDifferentHumpsMode">
     <keyboard-shortcut first-keystroke="shift ctrl back_space" />
   </action>
-  <action id="EditorDuplicate">
-    <keyboard-shortcut first-keystroke="shift meta d" />
-  </action>
-  <action id="EditorDuplicateLines">
-    <keyboard-shortcut first-keystroke="shift meta l" />
-  </action>
+  <action id="EditorDuplicate" />
   <action id="EditorJoinLines" />
   <action id="EditorPasteSimple">
     <keyboard-shortcut first-keystroke="shift meta alt v" />
@@ -352,9 +347,6 @@
   <action id="Unsplit">
     <keyboard-shortcut first-keystroke="ctrl alt d" />
   </action>
-  <action id="Upsource.CreateOrShowDiscussion">
-    <keyboard-shortcut first-keystroke="ctrl alt minus" />
-  </action>
   <action id="Vcs.QuickListPopupAction">
     <keyboard-shortcut first-keystroke="ctrl k" />
   </action>
@@ -366,6 +358,12 @@
   <action id="XPathView.Actions.Evaluate" />
   <action id="XPathView.Actions.FindByExpression" />
   <action id="XPathView.Actions.ShowPath" />
+  <action id="android.deploy.ApplyChanges">
+    <keyboard-shortcut first-keystroke="ctrl meta r" />
+  </action>
+  <action id="android.deploy.CodeSwap">
+    <keyboard-shortcut first-keystroke="shift ctrl meta r" />
+  </action>
   <action id="org.jetbrains.plugins.terminal.OpenLocalTerminalAction">
     <keyboard-shortcut first-keystroke="ctrl l" />
   </action>
