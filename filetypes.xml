@@ -15,6 +15,7 @@
       <mapping pattern="make" type="PLAIN_TEXT" />
       <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
       <mapping pattern=".textlintrc" type="PLAIN_TEXT" />
+      <mapping ext="mo" type="PLAIN_TEXT" />
       <mapping ext="pem" type="PLAIN_TEXT" />
       <mapping ext="dist" type="YAML" />
       <removed_mapping pattern="yaml-lint" approved="true" type="PLAIN_TEXT" />
