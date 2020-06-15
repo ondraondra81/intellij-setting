@@ -4,6 +4,7 @@
     <extensionMap>
       <mapping ext="dev" type="Dockerfile" />
       <removed_mapping pattern=".env.*" approved="true" type="Env File" />
+      <mapping pattern=".eslintrignore" type="GitIgnore file" />
       <mapping pattern="Jenkisfile" type="Groovy" />
       <mapping pattern="Jenkinsfile" type="Groovy" />
       <mapping pattern="*.js.local" type="JavaScript" />
@@ -14,6 +15,7 @@
       <mapping ext="phpt" type="PHP" />
       <mapping pattern="make" type="PLAIN_TEXT" />
       <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
+      <mapping pattern=".prettierignore" type="PLAIN_TEXT" />
       <mapping pattern=".textlintrc" type="PLAIN_TEXT" />
       <mapping ext="mo" type="PLAIN_TEXT" />
       <mapping ext="pem" type="PLAIN_TEXT" />
