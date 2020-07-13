@@ -12,6 +12,7 @@
       <mapping ext="prod" type="JavaScript" />
       <mapping ext="gradle.kts" type="Kotlin" />
       <mapping pattern="console" type="PHP" />
+      <mapping pattern="twig-lint" type="PHP" />
       <mapping pattern="yaml-lint" type="PHP" />
       <mapping ext="phpt" type="PHP" />
       <mapping pattern="make" type="PLAIN_TEXT" />
