@@ -58,6 +58,7 @@
     </indentOptions>
   </codeStyleSettings>
   <codeStyleSettings language="JavaScript">
+    <option name="ALIGN_MULTILINE_TERNARY_OPERATION" value="true" />
     <option name="SOFT_MARGINS" value="80" />
   </codeStyleSettings>
   <codeStyleSettings language="PHP">
