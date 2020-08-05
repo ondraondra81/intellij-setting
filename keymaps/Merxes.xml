@@ -31,9 +31,7 @@
   <action id="ActivateRunToolWindow">
     <keyboard-shortcut first-keystroke="ctrl 4" />
   </action>
-  <action id="ActivateStructureToolWindow">
-    <keyboard-shortcut first-keystroke="ctrl y_with_acute" />
-  </action>
+  <action id="ActivateStructureToolWindow" />
   <action id="ActivateTODOToolWindow">
     <keyboard-shortcut first-keystroke="ctrl 6" />
   </action>
