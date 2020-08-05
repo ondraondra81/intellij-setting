@@ -169,6 +169,9 @@
   <action id="Generate">
     <keyboard-shortcut first-keystroke="meta i" />
   </action>
+  <action id="Git.Pull">
+    <keyboard-shortcut first-keystroke="shift meta p" />
+  </action>
   <action id="Git.Push" />
   <action id="GotoAction">
     <keyboard-shortcut first-keystroke="shift ctrl p" />
