@@ -10,6 +10,7 @@
       <mapping pattern="*.js.local" type="JavaScript" />
       <mapping ext="prod" type="JavaScript" />
       <mapping ext="gradle.kts" type="Kotlin" />
+      <mapping ext="main.kts" type="Kotlin" />
       <mapping pattern="yaml-lint" type="PHP" />
       <mapping pattern="twig-lint" type="PHP" />
       <mapping pattern="console" type="PHP" />
