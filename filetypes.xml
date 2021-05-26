@@ -8,6 +8,7 @@
       <mapping pattern="Jenkinsfile" type="Groovy" />
       <mapping pattern="*.js.local" type="JavaScript" />
       <mapping ext="prod" type="JavaScript" />
+      <mapping ext="space.kts" type="Kotlin" />
       <mapping ext="gradle.kts" type="Kotlin" />
       <mapping ext="main.kts" type="Kotlin" />
       <mapping pattern="yaml-lint" type="PHP" />
