@@ -21,6 +21,7 @@
       <mapping pattern=".textlintrc" type="PLAIN_TEXT" />
       <mapping ext="mo" type="PLAIN_TEXT" />
       <mapping ext="pem" type="PLAIN_TEXT" />
+      <mapping pattern="makeBuild" type="Shell Script" />
       <mapping pattern="*.xml.dist" type="XML" />
       <mapping ext="dist" type="YAML" />
       <removed_mapping ext="apk" approved="true" type="ARCHIVE" />
@@ -34,7 +35,6 @@
       <removed_mapping pattern="yaml-lint" approved="true" type="PLAIN_TEXT" />
       <mapping pattern="create_volumes" type="Bat" />
       <mapping pattern="import-dev-db" type="Bash" />
-      <mapping pattern="makeBuild" type="Shell Script" />
     </extensionMap>
   </component>
 </application>
