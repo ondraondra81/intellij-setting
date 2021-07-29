@@ -4,7 +4,7 @@
     <extensionMap>
       <mapping ext="dev" type="Dockerfile" />
       <mapping pattern=".eslintrignore" type="GitIgnore file" />
-      <mapping pattern="Jenkisfile" type="Groovy" />
+      <mapping pattern="Jenkinsfile.dist" type="Groovy" />
       <mapping pattern="Jenkinsfile" type="Groovy" />
       <mapping pattern="*.js.local" type="JavaScript" />
       <mapping ext="prod" type="JavaScript" />
@@ -31,6 +31,7 @@
       <removed_mapping ext="txt" approved="true" type="PLAIN_TEXT" />
       <removed_mapping pattern=".env" approved="true" type="Env File" />
       <removed_mapping pattern=".env.*" approved="true" type="Env File" />
+      <removed_mapping pattern="Jenkisfile" approved="true" type="Groovy" />
       <removed_mapping pattern="reponseUrl" approved="true" type="PLAIN_TEXT" />
       <removed_mapping pattern="yaml-lint" approved="true" type="PLAIN_TEXT" />
       <mapping pattern="create_volumes" type="Bat" />
