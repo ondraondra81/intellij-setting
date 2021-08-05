@@ -1,6 +1,6 @@
 <application>
   <component name="FileTypeManager" version="18">
-    <ignoreFiles list="*.idea;*.iml;*.pyc;*.pyo;*.rbc;*.yarb;*~;.DS_Store;.git;.hg;.svn;CVS;__pycache__;_svn;vssver.scc;vssver2.scc;" />
+    <ignoreFiles list="*.idea;*.iml;*.pyc;*.pyo;*.rbc;*.yarb;*~;.DS_Store;.git;.hg;.svn;CVS;__pycache__;_svn;vssver.scc;vssver2.scc" />
     <extensionMap>
       <mapping ext="dev" type="Dockerfile" />
       <mapping pattern=".eslintrignore" type="GitIgnore file" />
@@ -12,13 +12,13 @@
       <mapping ext="gradle.kts" type="Kotlin" />
       <mapping ext="main.kts" type="Kotlin" />
       <mapping pattern="yaml-lint" type="PHP" />
-      <mapping pattern="twig-lint" type="PHP" />
       <mapping pattern="console" type="PHP" />
+      <mapping pattern="twig-lint" type="PHP" />
       <mapping ext="phpt" type="PHP" />
-      <mapping pattern=".prettierignore" type="PLAIN_TEXT" />
-      <mapping pattern="make" type="PLAIN_TEXT" />
-      <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
       <mapping pattern=".textlintrc" type="PLAIN_TEXT" />
+      <mapping pattern=".prettierignore" type="PLAIN_TEXT" />
+      <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
+      <mapping pattern="make" type="PLAIN_TEXT" />
       <mapping ext="mo" type="PLAIN_TEXT" />
       <mapping ext="pem" type="PLAIN_TEXT" />
       <mapping pattern="makeBuild" type="Shell Script" />
@@ -34,8 +34,12 @@
       <removed_mapping pattern="Jenkisfile" approved="true" type="Groovy" />
       <removed_mapping pattern="reponseUrl" approved="true" type="PLAIN_TEXT" />
       <removed_mapping pattern="yaml-lint" approved="true" type="PLAIN_TEXT" />
+      <mapping ext="phpt" type="PHP" />
+      <mapping pattern="console" type="PHP" />
       <mapping pattern="create_volumes" type="Bat" />
       <mapping pattern="import-dev-db" type="Bash" />
+      <mapping pattern="twig-lint" type="PHP" />
+      <mapping pattern="yaml-lint" type="PHP" />
     </extensionMap>
   </component>
 </application>
