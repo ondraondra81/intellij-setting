@@ -123,7 +123,7 @@
       <option name="PHP" value="true" />
     </context>
   </template>
-  <template name="orm" value="use Doctrine\ORM\Mapping\Annotation as ORM;" description="add Annotation use" toReformat="false" toShortenFQNames="true">
+  <template name="orm" value="use Doctrine\ORM\Mapping as ORM;" description="add Annotation use" toReformat="false" toShortenFQNames="true">
     <context>
       <option name="PHP" value="true" />
     </context>
