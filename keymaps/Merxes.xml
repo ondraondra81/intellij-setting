@@ -106,6 +106,9 @@
     <keyboard-shortcut first-keystroke="ctrl a" />
     <keyboard-shortcut first-keystroke="meta a" />
   </action>
+  <action id="EditorAddOrRemoveCaret">
+    <mouse-shortcut keystroke="alt button1" />
+  </action>
   <action id="EditorChooseLookupItemCompleteStatement">
     <keyboard-shortcut first-keystroke="ctrl enter" />
     <keyboard-shortcut first-keystroke="meta enter" />
@@ -113,6 +116,9 @@
   <action id="EditorCompleteStatement">
     <keyboard-shortcut first-keystroke="ctrl enter" />
     <keyboard-shortcut first-keystroke="meta enter" />
+  </action>
+  <action id="EditorCreateRectangularSelectionOnMouseDrag">
+    <mouse-shortcut keystroke="button2" />
   </action>
   <action id="EditorDeleteLine">
     <keyboard-shortcut first-keystroke="shift delete" />
@@ -258,6 +264,9 @@
   <action id="PerforceDirect.Edit" />
   <action id="PreviousTab" />
   <action id="ProjectViewChangeView" />
+  <action id="QuickEvaluateExpression">
+    <keyboard-shortcut first-keystroke="ctrl alt f8" />
+  </action>
   <action id="QuickImplementations">
     <keyboard-shortcut first-keystroke="shift ctrl q" />
   </action>
