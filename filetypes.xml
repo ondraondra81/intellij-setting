@@ -35,12 +35,8 @@
       <removed_mapping pattern="Jenkisfile" approved="true" type="Groovy" />
       <removed_mapping pattern="reponseUrl" approved="true" type="PLAIN_TEXT" />
       <removed_mapping pattern="yaml-lint" approved="true" type="PLAIN_TEXT" />
-      <mapping ext="phpt" type="PHP" />
-      <mapping pattern="console" type="PHP" />
       <mapping pattern="create_volumes" type="Bat" />
       <mapping pattern="import-dev-db" type="Bash" />
-      <mapping pattern="twig-lint" type="PHP" />
-      <mapping pattern="yaml-lint" type="PHP" />
     </extensionMap>
   </component>
 </application>
